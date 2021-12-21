@@ -1,0 +1,14 @@
+{
+  "name": "npmdocker",
+  "version": "1.0.0",
+  "description": "Project to learn Docker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonas Ermert",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
